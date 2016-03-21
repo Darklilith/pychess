@@ -30,3 +30,5 @@ Pieces = {"Pawn":
                "Location": None,
                "Moved": False}
           }
+
+print(Pieces["Pawn"])
