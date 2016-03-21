@@ -18,5 +18,3 @@ Pieces = {"Pawn":
               {"Movement": {"North": 1, "NorthEast": 1, "East": 1, "SouthEast": 1, "South": 1, "SouthWest": 1,
                             "West": 1, "NorthWest": 1}}
           }
-
-print(Pieces["Pawn"])
