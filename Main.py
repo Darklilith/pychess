@@ -1,0 +1,36 @@
+import Pieces as P
+
+Bteam = {"pawn1": P.Pieces["Pawn"],
+         "Pawn2": P.Pieces["Pawn"],
+         "Pawn3": P.Pieces["Pawn"],
+         "Pawn4": P.Pieces["Pawn"],
+         "Pawn5": P.Pieces["Pawn"],
+         "Pawn6": P.Pieces["Pawn"],
+         "Pawn7": P.Pieces["Pawn"],
+         "Pawn8": P.Pieces["Pawn"],
+         "Rook1": P.Pieces["Rook"],
+         "Rook2": P.Pieces["Rook"],
+         "Knight1": P.Pieces["Knight"],
+         "Knight2": P.Pieces["Knight"],
+         "Bishop1": P.Pieces["Bishop"],
+         "Bishop2": P.Pieces["Bishop"],
+         "King": P.Pieces["King"],
+         "Queen": P.Pieces["Queen"]
+         }
+Wteam = {"pawn1": P.Pieces["Pawn"],
+         "Pawn2": P.Pieces["Pawn"],
+         "Pawn3": P.Pieces["Pawn"],
+         "Pawn4": P.Pieces["Pawn"],
+         "Pawn5": P.Pieces["Pawn"],
+         "Pawn6": P.Pieces["Pawn"],
+         "Pawn7": P.Pieces["Pawn"],
+         "Pawn8": P.Pieces["Pawn"],
+         "Rook1": P.Pieces["Rook"],
+         "Rook2": P.Pieces["Rook"],
+         "Knight1": P.Pieces["Knight"],
+         "Knight2": P.Pieces["Knight"],
+         "Bishop1": P.Pieces["Bishop"],
+         "Bishop2": P.Pieces["Bishop"],
+         "King": P.Pieces["King"],
+         "Queen": P.Pieces["Queen"]
+         }
